@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Луцкая Полина Сергеевна
+- https://colab.research.google.com/drive/1TCJwwgNqotvmDPF08SrH0cuhQEGgEAMN?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
