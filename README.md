@@ -2,6 +2,7 @@
 
 ## О работе
 - Луцкая Полина Сергеевна
+
   Ссылка:
 - https://colab.research.google.com/drive/1TCJwwgNqotvmDPF08SrH0cuhQEGgEAMN?usp=sharing
 
